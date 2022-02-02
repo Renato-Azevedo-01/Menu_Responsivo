@@ -1,8 +1,8 @@
-# Menu_Responsivo
- Menu com Sub-menu Responsivo (Delay e Rotate - JS-CSS-HTML). 
- Este menu contém links com API's google para acessar ícones;
- Disparo de "arrow rotate" e "active sub-menu" on click;
- Reaponsividade COM DELAY;
+# 🦾 Menu Responsivo (com "delay" e "rotate"
+ Feito em JS-CSS-HTML.
+ Este menu contém links com API's google para acessar ícones e Code.js;
+ Disparo de "arrow rotate" ▶️ 🔽 e "active sub-menu" on click;
+ 😃 Responsividade COM DELAY;
  [Site do Menu Responsivo](https://renato-azevedo-01.github.io/Menu_Responsivo)
  # Menu e Sub-Menu responsivo:
  [Menu com Sub-Menu Responsivo] (https://renato-azevedo-01.github.io/Menu_Responsivo/index2.html)
